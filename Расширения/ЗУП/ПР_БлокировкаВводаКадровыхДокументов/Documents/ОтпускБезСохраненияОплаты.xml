@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="d2123863-14ab-4221-9a62-1a360146b772">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтпускБезСохраненияОплаты" category="Object">
+				<xr:TypeId>e3da0e0a-0339-4b0b-b6df-3e0837faaca4</xr:TypeId>
+				<xr:ValueId>43634ac9-3abf-451d-9a06-e88f5ce5d1f0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтпускБезСохраненияОплаты" category="Ref">
+				<xr:TypeId>addbe4d1-6799-4b09-95e5-c58240e0091f</xr:TypeId>
+				<xr:ValueId>64d495f3-4ab7-4be0-afb0-fe1eace00ad7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтпускБезСохраненияОплаты" category="Selection">
+				<xr:TypeId>beb21d0c-f767-4962-b26d-8b90e26a1ab7</xr:TypeId>
+				<xr:ValueId>95aa0d16-dd69-450a-bdf9-6a12069e9109</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтпускБезСохраненияОплаты" category="List">
+				<xr:TypeId>31dc2169-2924-47ee-86ba-d3d85acb78a5</xr:TypeId>
+				<xr:ValueId>8a89918b-36c1-40f7-a222-8bda8a2d006c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтпускБезСохраненияОплаты" category="Manager">
+				<xr:TypeId>c8fa4007-5d1b-4e2d-b6dc-81095e1d48eb</xr:TypeId>
+				<xr:ValueId>b22b1022-fc3d-4fe6-b3fa-70ed79183a80</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтпускБезСохраненияОплаты</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a04a8750-5fde-4593-a744-782d8a66294f</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

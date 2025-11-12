@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="48d0233e-2338-46df-920e-cb0294a92d16">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПереносОтпуска" category="Object">
+				<xr:TypeId>ba70bca9-1ebf-425d-8487-1da44086194f</xr:TypeId>
+				<xr:ValueId>22499349-3b96-4e3b-b904-85bc2b9dac45</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПереносОтпуска" category="Ref">
+				<xr:TypeId>acd1c7d4-4943-4fe2-a8bf-6fd2fa0210cf</xr:TypeId>
+				<xr:ValueId>36ca0a81-6f31-4273-9037-384d6e8ef055</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПереносОтпуска" category="Selection">
+				<xr:TypeId>d4ea92ff-92e3-45d5-98d1-d207e1e2dd80</xr:TypeId>
+				<xr:ValueId>d094060a-49c0-4bf9-8685-180e17b3b780</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПереносОтпуска" category="List">
+				<xr:TypeId>3a414ddf-7505-4017-9eec-85da72bc71d6</xr:TypeId>
+				<xr:ValueId>0b88c423-ecf4-4ed0-958b-c21914207f46</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПереносОтпуска" category="Manager">
+				<xr:TypeId>793bb5d8-b574-42bd-b0f8-0647af421e6b</xr:TypeId>
+				<xr:ValueId>fea4a0b4-6b6a-4932-9d19-bc01f5d3c0e5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПереносОтпуска</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a21d1242-0232-4337-aba3-8ac36358d414</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

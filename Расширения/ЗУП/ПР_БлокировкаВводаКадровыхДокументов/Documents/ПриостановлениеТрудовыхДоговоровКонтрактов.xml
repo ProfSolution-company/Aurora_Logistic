@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="b26c95e3-0568-4ceb-8195-50d2e9d58be0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПриостановлениеТрудовыхДоговоровКонтрактов" category="Object">
+				<xr:TypeId>d6217674-4752-451a-a994-12bafe49f3cd</xr:TypeId>
+				<xr:ValueId>56c78793-6f53-480f-9536-03ffbb6da90d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПриостановлениеТрудовыхДоговоровКонтрактов" category="Ref">
+				<xr:TypeId>b8f160e5-0aa4-4c4d-88b8-fbfc45c5757b</xr:TypeId>
+				<xr:ValueId>4c36ca0f-a22a-4fa7-a813-5114c0ba0a64</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПриостановлениеТрудовыхДоговоровКонтрактов" category="Selection">
+				<xr:TypeId>43aa490b-8543-42a7-a2e9-ddce5aadc0ae</xr:TypeId>
+				<xr:ValueId>01e276c6-541d-4648-b27e-0491344bb1ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПриостановлениеТрудовыхДоговоровКонтрактов" category="List">
+				<xr:TypeId>22aa0adb-8580-4745-b753-8d471391c8bc</xr:TypeId>
+				<xr:ValueId>eddcb3a7-a9ba-4a02-81b3-cedbabe9f3f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПриостановлениеТрудовыхДоговоровКонтрактов" category="Manager">
+				<xr:TypeId>e2dc03cf-d159-498b-b6ee-ca4b7eed8b91</xr:TypeId>
+				<xr:ValueId>57a91375-8408-47dc-8637-32af5262fc10</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПриостановлениеТрудовыхДоговоровКонтрактов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>3f08b440-fdee-40d6-9ac8-7e02e210d7d2</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

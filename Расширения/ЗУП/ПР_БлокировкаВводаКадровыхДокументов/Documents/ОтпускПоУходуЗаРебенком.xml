@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f31f1924-9e39-4837-a565-316518c11e22">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтпускПоУходуЗаРебенком" category="Object">
+				<xr:TypeId>0e24b8ed-8c50-44cb-ae8f-166de08f9215</xr:TypeId>
+				<xr:ValueId>3ffcdff8-ea6d-446c-86e9-766bc56d69e8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтпускПоУходуЗаРебенком" category="Ref">
+				<xr:TypeId>d98b9e2a-ddf1-4c29-9f94-00cce029068b</xr:TypeId>
+				<xr:ValueId>68fe8b12-e046-4674-863e-b4777fad20fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтпускПоУходуЗаРебенком" category="Selection">
+				<xr:TypeId>ee32c2a6-25b7-409e-871b-2a6452297e1a</xr:TypeId>
+				<xr:ValueId>814317d5-0223-4fa4-a730-070c941801d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтпускПоУходуЗаРебенком" category="List">
+				<xr:TypeId>4a49a5dd-94e7-47ef-8acc-f48a14dcf99b</xr:TypeId>
+				<xr:ValueId>38eefbf8-41af-4811-a1de-b590ce091845</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтпускПоУходуЗаРебенком" category="Manager">
+				<xr:TypeId>320468e1-f965-42d5-848c-1fd98f466363</xr:TypeId>
+				<xr:ValueId>9ddc0397-eeb0-461b-a43f-33bf02cac5dd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтпускПоУходуЗаРебенком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1497a778-0251-40d0-b76a-08505aeb0011</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

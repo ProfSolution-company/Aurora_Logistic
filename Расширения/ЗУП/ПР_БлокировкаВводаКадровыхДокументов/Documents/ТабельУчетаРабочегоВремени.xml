@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f22f5428-7b9d-40de-ba40-e8186a7b8e64">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ТабельУчетаРабочегоВремени" category="Object">
+				<xr:TypeId>1b8f5756-a354-42f5-899b-30251d288996</xr:TypeId>
+				<xr:ValueId>7c726a5f-4274-476b-8f5c-50fb950b10f0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ТабельУчетаРабочегоВремени" category="Ref">
+				<xr:TypeId>7f086bd6-0a72-4aa0-a4cb-44ea89475eb2</xr:TypeId>
+				<xr:ValueId>8ef0322f-9a4f-45ee-8726-76007451e850</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ТабельУчетаРабочегоВремени" category="Selection">
+				<xr:TypeId>78eb4cde-ce82-4ee1-84ca-9dfeed77834b</xr:TypeId>
+				<xr:ValueId>0df1c298-9dd3-434a-ab27-4e06ecbfa9af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ТабельУчетаРабочегоВремени" category="List">
+				<xr:TypeId>af69ac8a-153b-46fa-bdc1-81c017a1ef82</xr:TypeId>
+				<xr:ValueId>88e4888c-0a1a-44b7-b071-660cbe689255</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ТабельУчетаРабочегоВремени" category="Manager">
+				<xr:TypeId>59bcfc8c-e5e7-4737-b72b-a20e5718d41a</xr:TypeId>
+				<xr:ValueId>2bb49794-cb0d-4edf-8427-3d51a42d93d5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТабельУчетаРабочегоВремени</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>277a8466-59bd-4734-9e62-beafce0b4dd7</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

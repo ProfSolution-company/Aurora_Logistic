@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="ed5f0106-e2d5-47fa-9e93-adcb33811c00">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПродлениеКонтрактаДоговора" category="Object">
+				<xr:TypeId>cf2ee4c1-c8b5-4735-981e-dd0e1265f75c</xr:TypeId>
+				<xr:ValueId>6fff8cd6-159b-4ded-be8d-d2bdd5b51a3d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПродлениеКонтрактаДоговора" category="Ref">
+				<xr:TypeId>f3f2be6d-c28d-437a-83d7-79d7ecb7cef7</xr:TypeId>
+				<xr:ValueId>6654975c-45e3-4795-986f-0c644c2afdaf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПродлениеКонтрактаДоговора" category="Selection">
+				<xr:TypeId>a2f10721-39a9-4b41-bd54-62d54f540212</xr:TypeId>
+				<xr:ValueId>cd6a0d58-4271-4eef-b8e0-ab094cf983ff</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПродлениеКонтрактаДоговора" category="List">
+				<xr:TypeId>2547f278-9932-4624-b469-abfcc6ac4fb2</xr:TypeId>
+				<xr:ValueId>a9abd7e9-d3c7-40f8-9114-d30ed39a431c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПродлениеКонтрактаДоговора" category="Manager">
+				<xr:TypeId>5d784c7f-4d5e-4de5-aaba-9a9a574af5ae</xr:TypeId>
+				<xr:ValueId>f91ccdbf-e300-4b6a-a6cc-becefa0f1338</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПродлениеКонтрактаДоговора</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2400f5c3-a522-434a-aeec-9da25f2457f3</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

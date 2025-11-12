@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="4888da47-af73-4dc1-a998-96b6426e7bd8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВосстановлениеВДолжности" category="Object">
+				<xr:TypeId>14318360-3671-4f33-a494-b7067c252823</xr:TypeId>
+				<xr:ValueId>a9d785e5-32fa-43ca-8b38-32d6906e1e9b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВосстановлениеВДолжности" category="Ref">
+				<xr:TypeId>62bb50fb-cdc2-4f7c-9246-f04007ffa7e2</xr:TypeId>
+				<xr:ValueId>a6fef924-364d-4e70-a022-fd957bfa099a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВосстановлениеВДолжности" category="Selection">
+				<xr:TypeId>417c52da-daec-42a6-9cdc-4ffb8eab5976</xr:TypeId>
+				<xr:ValueId>3ba9af85-7d25-4ab8-b47b-27a3fd8257b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВосстановлениеВДолжности" category="List">
+				<xr:TypeId>9ef5417a-89ba-48b2-9eb1-955513c47a68</xr:TypeId>
+				<xr:ValueId>b547b592-e026-4e2a-9eca-0b6ff07d0749</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВосстановлениеВДолжности" category="Manager">
+				<xr:TypeId>0e920762-1941-42cd-89c6-46d81e8926a1</xr:TypeId>
+				<xr:ValueId>497db4f4-cd72-455b-9db3-380d1520af18</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВосстановлениеВДолжности</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4d2869ee-aeca-4b09-bdaf-5e42bd0dc5d4</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
