@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="69bf8a3a-aef2-48a1-9fd1-9f86962c94e6">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтпускБезСохраненияОплатыСписком" category="Object">
+				<xr:TypeId>66060494-ba64-4890-8575-d3cd76811483</xr:TypeId>
+				<xr:ValueId>5498538c-e057-4871-8a44-b4e22f71df62</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтпускБезСохраненияОплатыСписком" category="Ref">
+				<xr:TypeId>dbe3b335-209e-44a1-b8dd-d9da1311aca6</xr:TypeId>
+				<xr:ValueId>c47cd465-4dda-46b0-b5f1-3f40ebd22f7d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтпускБезСохраненияОплатыСписком" category="Selection">
+				<xr:TypeId>84c1ca3e-e80e-40a5-884c-eb9044660d2e</xr:TypeId>
+				<xr:ValueId>4eaecba0-1e20-44e3-97d8-a29ec8848bb1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтпускБезСохраненияОплатыСписком" category="List">
+				<xr:TypeId>50f48730-00fb-4bb3-bbee-83d9c9038ee8</xr:TypeId>
+				<xr:ValueId>e07bdf8b-b315-4b1c-8c9f-7f899860a63e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтпускБезСохраненияОплатыСписком" category="Manager">
+				<xr:TypeId>0fa2e8c5-2f34-4dcd-b7c9-ab3c43cd240e</xr:TypeId>
+				<xr:ValueId>e62da675-d5a1-4e54-b5f6-642db41b964c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтпускБезСохраненияОплатыСписком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c44474d6-3179-4ed6-80ef-9b4b46c67f4a</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

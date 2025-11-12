@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="d12282c9-7692-4c7f-8839-1843c77f9c9d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РаботаВВыходныеИПраздничныеДни" category="Object">
+				<xr:TypeId>a2fbcf15-8569-4a78-8444-62a2cc82cca5</xr:TypeId>
+				<xr:ValueId>5419b4a4-8720-4cb2-930e-a0c42db3772f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РаботаВВыходныеИПраздничныеДни" category="Ref">
+				<xr:TypeId>4b53066b-cc83-41e4-91f4-f87aa043cfcd</xr:TypeId>
+				<xr:ValueId>27d9acbb-9300-4aae-adc1-49d23768ae07</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РаботаВВыходныеИПраздничныеДни" category="Selection">
+				<xr:TypeId>7404b447-53d7-40f4-af7e-176f4ab527ab</xr:TypeId>
+				<xr:ValueId>f4937825-2d22-4526-865d-f58dd60d81bd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РаботаВВыходныеИПраздничныеДни" category="List">
+				<xr:TypeId>4b4367eb-f4fe-46d1-aa13-4f960010e9f9</xr:TypeId>
+				<xr:ValueId>2c360fee-f7ca-4a64-98b7-61cde925cb5d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РаботаВВыходныеИПраздничныеДни" category="Manager">
+				<xr:TypeId>7623d6fa-a457-4a97-b115-3dc6bcb0685c</xr:TypeId>
+				<xr:ValueId>607541c3-cbd6-44cf-8c0b-79c59ee4188f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РаботаВВыходныеИПраздничныеДни</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9b0fca9f-2afa-4b6c-bc3c-2ef1dd21ae86</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

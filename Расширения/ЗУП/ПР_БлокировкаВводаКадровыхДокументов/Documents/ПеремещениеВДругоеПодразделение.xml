@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="68d3adf4-8958-41e3-ad9a-a5f631044971">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПеремещениеВДругоеПодразделение" category="Object">
+				<xr:TypeId>90dd13b1-b5b0-4154-a79e-ee00561a5c03</xr:TypeId>
+				<xr:ValueId>b6e22651-f271-4038-ab78-65d132029412</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПеремещениеВДругоеПодразделение" category="Ref">
+				<xr:TypeId>f88c469c-c706-4150-932b-b7e88c102303</xr:TypeId>
+				<xr:ValueId>0b36c2c3-b809-4ff5-aafe-d6810b91f629</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПеремещениеВДругоеПодразделение" category="Selection">
+				<xr:TypeId>8ace34d3-7f3f-4b42-84a4-00e148e5b7a2</xr:TypeId>
+				<xr:ValueId>7a5a6357-85e3-42ca-aecb-0aea667f1711</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПеремещениеВДругоеПодразделение" category="List">
+				<xr:TypeId>a2332b17-0495-4406-b188-947c8bcd7bff</xr:TypeId>
+				<xr:ValueId>54dc00c3-20cb-46af-877c-f9f6c4ff3cf0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПеремещениеВДругоеПодразделение" category="Manager">
+				<xr:TypeId>3e2fe56b-73b5-47d0-976a-56b67c861d1b</xr:TypeId>
+				<xr:ValueId>accc52f2-b93f-4d30-a713-12911ac51984</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПеремещениеВДругоеПодразделение</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d2c4997c-1df6-4fbf-8eb2-701244405e6c</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

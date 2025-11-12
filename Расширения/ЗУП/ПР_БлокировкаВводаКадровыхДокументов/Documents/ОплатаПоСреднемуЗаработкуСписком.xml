@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="a4e42efb-b5b3-4ce5-a145-01eeee88b1aa">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОплатаПоСреднемуЗаработкуСписком" category="Object">
+				<xr:TypeId>9156aea0-3268-4bc3-9cbd-f994b977c1c2</xr:TypeId>
+				<xr:ValueId>f9b9133d-1348-47e9-8d3f-3cf4b0b58828</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОплатаПоСреднемуЗаработкуСписком" category="Ref">
+				<xr:TypeId>664df2d5-b309-49d9-a72b-4c94aa1ede7e</xr:TypeId>
+				<xr:ValueId>8ae79461-b21c-493e-b1b6-8ab17dfe3e97</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОплатаПоСреднемуЗаработкуСписком" category="Selection">
+				<xr:TypeId>377a7ffd-8a32-44e5-b88f-64a9ff3dae8f</xr:TypeId>
+				<xr:ValueId>f6df6c09-b193-4a17-8015-17f9f1b0d3bc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОплатаПоСреднемуЗаработкуСписком" category="List">
+				<xr:TypeId>79d967da-325f-470c-9f86-bddb38ecb997</xr:TypeId>
+				<xr:ValueId>0082a50c-cc22-434b-ae14-d4c3395ae0c5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОплатаПоСреднемуЗаработкуСписком" category="Manager">
+				<xr:TypeId>b808bf8e-dc85-424e-a9c3-1b0b4d435e4c</xr:TypeId>
+				<xr:ValueId>78266b5e-5219-4680-9816-92cd3fb23f5d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОплатаПоСреднемуЗаработкуСписком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f513940d-716b-49fc-89a7-e64f6f57160e</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

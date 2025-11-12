@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="ba000a0e-78bc-451f-8d31-b7e5608faa8d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПеремещениеМеждуТерриториями" category="Object">
+				<xr:TypeId>a2db42bb-6f94-4800-ae7c-6f16ac5c1b9d</xr:TypeId>
+				<xr:ValueId>a8772d16-ca3d-4482-ae31-643c13e20564</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПеремещениеМеждуТерриториями" category="Ref">
+				<xr:TypeId>76e86beb-dea7-42d4-adbe-18043bd2e2da</xr:TypeId>
+				<xr:ValueId>cb045735-ab1f-4c00-af6a-1c71aa7db17b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПеремещениеМеждуТерриториями" category="Selection">
+				<xr:TypeId>b872da8f-9564-415d-b807-dd08cbae1926</xr:TypeId>
+				<xr:ValueId>a4504836-6ff1-4f97-ac41-1b2b226dd2d3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПеремещениеМеждуТерриториями" category="List">
+				<xr:TypeId>d9e87add-08f3-46ae-a5b1-b8b2b61c773c</xr:TypeId>
+				<xr:ValueId>0664fae5-d34c-45fa-ae73-5241998e56c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПеремещениеМеждуТерриториями" category="Manager">
+				<xr:TypeId>26f165fc-f0c5-4a00-98f8-9594a0f86d19</xr:TypeId>
+				<xr:ValueId>a5098dc1-4999-4e42-a439-2a4961780257</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПеремещениеМеждуТерриториями</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7d3b5a39-171b-440f-8090-fb641fabadbc</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

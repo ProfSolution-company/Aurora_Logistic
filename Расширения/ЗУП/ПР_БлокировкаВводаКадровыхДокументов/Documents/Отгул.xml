@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="8eb27752-525f-4002-88bf-40eb59b1615f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.Отгул" category="Object">
+				<xr:TypeId>54f762ab-ba99-4fb4-bb5c-5115016a37af</xr:TypeId>
+				<xr:ValueId>d95c5caf-4efb-43db-bedb-562804e832b7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.Отгул" category="Ref">
+				<xr:TypeId>5c81e96d-2ecb-41ff-8252-043eb61c7272</xr:TypeId>
+				<xr:ValueId>9dc55d7d-8108-4bb0-b30c-be09c153ad08</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.Отгул" category="Selection">
+				<xr:TypeId>a1774e74-cd94-4b5c-8e60-9e13adc9d187</xr:TypeId>
+				<xr:ValueId>fe9d7a6e-c37d-4a8a-a71a-4a6b77ff6ef6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.Отгул" category="List">
+				<xr:TypeId>1d26cfad-f050-45ea-9a2c-c452b50c6d29</xr:TypeId>
+				<xr:ValueId>9549c044-a31c-4995-8185-755f02dd59c7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.Отгул" category="Manager">
+				<xr:TypeId>5bfbb487-fdab-41a4-bd92-4530686c3bba</xr:TypeId>
+				<xr:ValueId>b2801802-2957-4e42-a9d1-c8a9989c8144</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Отгул</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8252394e-ea48-45a9-9df1-51a55e29af25</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

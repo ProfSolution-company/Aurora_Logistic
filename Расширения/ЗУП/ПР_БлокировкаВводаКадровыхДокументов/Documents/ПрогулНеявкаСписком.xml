@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="60a7ce76-c549-485e-8297-e0312afdbd62">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПрогулНеявкаСписком" category="Object">
+				<xr:TypeId>a1431133-1da4-47c7-b9ed-e66c63bb0c75</xr:TypeId>
+				<xr:ValueId>8bf865f6-37ed-4ca0-a256-346265f8d997</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПрогулНеявкаСписком" category="Ref">
+				<xr:TypeId>bc620551-990b-4658-ad8f-d822ecd148fc</xr:TypeId>
+				<xr:ValueId>ba1d6885-fc05-4679-878a-b714a205687b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПрогулНеявкаСписком" category="Selection">
+				<xr:TypeId>da201f63-4c85-4e9c-92cd-f6a4e6877ec7</xr:TypeId>
+				<xr:ValueId>8f3edc96-b17d-4924-83f0-9ccdfb8be85c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПрогулНеявкаСписком" category="List">
+				<xr:TypeId>a7239f08-4002-463c-ac89-a41353ecde94</xr:TypeId>
+				<xr:ValueId>72828c81-0a6e-4932-9c5e-6a9123645afe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПрогулНеявкаСписком" category="Manager">
+				<xr:TypeId>4d3e2792-834f-4849-99fd-8074d2a4838d</xr:TypeId>
+				<xr:ValueId>5b5feed5-a9c7-4bf2-861c-3aeb3dec3008</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПрогулНеявкаСписком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>3a8a7be7-4a50-4842-a4d7-b6a15474f08c</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
