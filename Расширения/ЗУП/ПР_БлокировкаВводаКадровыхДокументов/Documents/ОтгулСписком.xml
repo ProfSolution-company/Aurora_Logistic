@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="10a2a66d-022a-42c6-961f-25f49b875a01">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтгулСписком" category="Object">
+				<xr:TypeId>dc6fe414-d343-4f39-a3f1-3723bd03a3af</xr:TypeId>
+				<xr:ValueId>0e23d635-aed0-478d-b14e-99bd8c614d2c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтгулСписком" category="Ref">
+				<xr:TypeId>d87481a4-93d3-4e8c-aab0-bc73a5383e27</xr:TypeId>
+				<xr:ValueId>8ba9924e-0e41-4877-b3ac-69a97b3a1336</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтгулСписком" category="Selection">
+				<xr:TypeId>e81c9db4-deca-4763-86f9-7413e56f1ba1</xr:TypeId>
+				<xr:ValueId>8f6ef5cb-9552-4ae7-ba3b-43ce2673cf57</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтгулСписком" category="List">
+				<xr:TypeId>d6af22d4-683d-4b13-a5cd-f939d6ff1307</xr:TypeId>
+				<xr:ValueId>05c4c0f4-def5-4469-9b28-9743239eb2f7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтгулСписком" category="Manager">
+				<xr:TypeId>cbd81dc2-341e-4388-b14a-c6b6b6142d6c</xr:TypeId>
+				<xr:ValueId>5f37c346-8373-4a64-bd73-496decdda83b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтгулСписком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d6849460-8f1e-493d-8271-c651dc1cb5e2</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

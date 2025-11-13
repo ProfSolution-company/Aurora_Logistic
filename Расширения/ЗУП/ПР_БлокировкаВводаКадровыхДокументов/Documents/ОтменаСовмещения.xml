@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="a4908250-0c92-4bae-a295-281868341f18">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтменаСовмещения" category="Object">
+				<xr:TypeId>3ca5782a-1424-4285-aebf-20474a9176c8</xr:TypeId>
+				<xr:ValueId>597856a1-1cfa-490e-8254-1d22d9f94dda</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтменаСовмещения" category="Ref">
+				<xr:TypeId>bd49c9b1-7ac1-4e40-b78d-64494833cf6e</xr:TypeId>
+				<xr:ValueId>efaa7f3c-be7f-4851-b6f3-aee1c141aee4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтменаСовмещения" category="Selection">
+				<xr:TypeId>31c4db9a-2871-4109-bffd-bdf8ba7401ca</xr:TypeId>
+				<xr:ValueId>7fd8b590-7ca7-4133-9291-3550053964b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтменаСовмещения" category="List">
+				<xr:TypeId>6d284938-6f8c-4e12-9de4-f32a760f0462</xr:TypeId>
+				<xr:ValueId>0fbea1c6-9bab-48ec-8f1d-07651535ac48</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтменаСовмещения" category="Manager">
+				<xr:TypeId>ae1ad7e9-61b8-4c8d-a3e2-a999636b5740</xr:TypeId>
+				<xr:ValueId>b9ac3a46-3ba6-4565-9a43-396131c74180</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтменаСовмещения</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f1ea45f5-7fb4-4c58-90c2-f0c6d346a2ac</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

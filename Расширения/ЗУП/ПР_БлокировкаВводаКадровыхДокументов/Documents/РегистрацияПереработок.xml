@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="e9f2c1db-f0a3-417d-ae68-8c532829bc2b">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РегистрацияПереработок" category="Object">
+				<xr:TypeId>4cdf5754-608f-4e32-a723-04d2f3b20755</xr:TypeId>
+				<xr:ValueId>a399868a-4e79-4114-abba-de6052799b5a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РегистрацияПереработок" category="Ref">
+				<xr:TypeId>5e30cbbd-4c4e-46b5-839c-2b8959f64c86</xr:TypeId>
+				<xr:ValueId>2ee7d72e-d62b-44ab-ad21-e8491951514a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РегистрацияПереработок" category="Selection">
+				<xr:TypeId>7ddd4c3a-fda7-4d79-a870-6eb05c68e785</xr:TypeId>
+				<xr:ValueId>7e9b0ae0-fd7e-46b7-94c0-21bd7aefa19b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РегистрацияПереработок" category="List">
+				<xr:TypeId>204c5c94-ee4d-4d05-ac20-ce09df2b8407</xr:TypeId>
+				<xr:ValueId>e306e571-8ef2-4538-999d-51011308e1be</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РегистрацияПереработок" category="Manager">
+				<xr:TypeId>da30efa2-ae05-4488-8441-9ccb8b2e2f90</xr:TypeId>
+				<xr:ValueId>1aa61b5c-0e97-41bb-9d08-cc132ec79d09</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РегистрацияПереработок</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5533e93c-4e59-4f4a-a3a8-9887fa0aeac9</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

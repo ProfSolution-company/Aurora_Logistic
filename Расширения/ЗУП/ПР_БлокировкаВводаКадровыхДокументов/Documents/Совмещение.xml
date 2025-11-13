@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="8c6d1039-04a8-4752-8084-e31522ece4b8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.Совмещение" category="Object">
+				<xr:TypeId>ceaefdec-f674-4eba-91e9-65cfa7b542b0</xr:TypeId>
+				<xr:ValueId>a19803fa-ca79-452d-8a9d-69b26f3ff8a4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.Совмещение" category="Ref">
+				<xr:TypeId>d2f2bfb0-4d3a-46f2-bcd7-90204e66064c</xr:TypeId>
+				<xr:ValueId>a83aafab-5a62-4d02-a1b3-06b633b87329</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.Совмещение" category="Selection">
+				<xr:TypeId>b500cb0a-51cc-4a07-9f98-bd8b250970ce</xr:TypeId>
+				<xr:ValueId>30c25c97-62e8-465e-aff2-e3082a5b45d0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.Совмещение" category="List">
+				<xr:TypeId>87c98f23-edd6-4b7d-a25f-78fa6e6e1236</xr:TypeId>
+				<xr:ValueId>04bbc123-fb0d-4ced-aa9d-e2b2971c264d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.Совмещение" category="Manager">
+				<xr:TypeId>55fc8166-c2cb-450b-9a83-b9e25917450d</xr:TypeId>
+				<xr:ValueId>f65a784e-1dba-4586-9243-a208b1238114</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Совмещение</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>55cf8acf-300e-49a9-936a-c3f270ab983b</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

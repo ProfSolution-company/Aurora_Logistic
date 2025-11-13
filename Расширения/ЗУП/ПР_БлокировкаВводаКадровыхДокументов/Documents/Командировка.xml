@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="7fae7a9d-aaed-4851-9113-395dd3d5d0f1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.Командировка" category="Object">
+				<xr:TypeId>df94f941-597b-4949-aed2-cf72e6b308d4</xr:TypeId>
+				<xr:ValueId>6d51a09a-914d-4905-981e-586240319823</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.Командировка" category="Ref">
+				<xr:TypeId>5a5b531f-93bc-47c6-a083-e92764ee2348</xr:TypeId>
+				<xr:ValueId>ca4312ec-4c3a-4ce4-8cca-b3fc48069fe5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.Командировка" category="Selection">
+				<xr:TypeId>9a087971-c98f-4f4c-8e05-fc1b60f9ba31</xr:TypeId>
+				<xr:ValueId>5b52b650-c321-433d-b4aa-67882efb5493</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.Командировка" category="List">
+				<xr:TypeId>a75fdee5-b7f2-4b4d-a8d6-49304d884df7</xr:TypeId>
+				<xr:ValueId>a4afc594-23e8-475a-b6be-bcab4efabd4b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.Командировка" category="Manager">
+				<xr:TypeId>cefa3b83-7d77-47c0-ad45-b1f9d7f7f9fb</xr:TypeId>
+				<xr:ValueId>fcaf4e6f-973c-4f0d-a112-093f3199cdaa</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Командировка</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>376acf9e-1be3-4cdc-8820-399d07079be4</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

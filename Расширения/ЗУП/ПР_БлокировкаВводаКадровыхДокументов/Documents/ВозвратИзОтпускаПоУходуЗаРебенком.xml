@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="16161759-709a-4ca8-a36a-66ca87fd5d86">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВозвратИзОтпускаПоУходуЗаРебенком" category="Object">
+				<xr:TypeId>34979f95-caa8-4a6f-b9e1-6d313ca7aa44</xr:TypeId>
+				<xr:ValueId>176115d8-9278-4bbb-9ae5-f2f10e625c36</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВозвратИзОтпускаПоУходуЗаРебенком" category="Ref">
+				<xr:TypeId>e17cf3be-10b8-4695-8ef5-3b537addc6d7</xr:TypeId>
+				<xr:ValueId>cc5d8b91-3a8b-450d-81f4-5b08997c310c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВозвратИзОтпускаПоУходуЗаРебенком" category="Selection">
+				<xr:TypeId>f684add7-945c-4a48-85a0-c29033c12b3f</xr:TypeId>
+				<xr:ValueId>55767568-e702-47fe-937a-73b84a8a45fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВозвратИзОтпускаПоУходуЗаРебенком" category="List">
+				<xr:TypeId>21417c4f-be83-48e1-995d-c9ef5ea14ed3</xr:TypeId>
+				<xr:ValueId>158ca94e-d718-464a-b19a-67092497e0ab</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВозвратИзОтпускаПоУходуЗаРебенком" category="Manager">
+				<xr:TypeId>26c778c0-b488-4df2-87ee-9d9e5fbf0500</xr:TypeId>
+				<xr:ValueId>dcecda02-75bb-451d-9705-34610fef3465</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВозвратИзОтпускаПоУходуЗаРебенком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c6753f12-d8e0-4099-8162-66c67a14c0da</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

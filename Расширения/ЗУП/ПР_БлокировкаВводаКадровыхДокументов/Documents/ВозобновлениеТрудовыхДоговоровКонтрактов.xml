@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="b1cfc7b6-263c-4d16-a8b3-3b437d800744">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВозобновлениеТрудовыхДоговоровКонтрактов" category="Object">
+				<xr:TypeId>4a888852-ee83-44e4-8449-76206c5cd4a5</xr:TypeId>
+				<xr:ValueId>883c0c91-5e9c-4756-b9c2-4dc85d00a669</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВозобновлениеТрудовыхДоговоровКонтрактов" category="Ref">
+				<xr:TypeId>b5af7bc9-35fa-475e-92ea-3739e5174f1c</xr:TypeId>
+				<xr:ValueId>c1906c6f-e4c3-4a9e-b482-58388b1395f3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВозобновлениеТрудовыхДоговоровКонтрактов" category="Selection">
+				<xr:TypeId>eb2ec206-c271-4f1c-ba0a-2c9755a5c4c1</xr:TypeId>
+				<xr:ValueId>efb7befc-6ff1-45d2-84a9-a1cd0c960cc5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВозобновлениеТрудовыхДоговоровКонтрактов" category="List">
+				<xr:TypeId>49d0f932-de30-4e5a-83cb-c10b594845ea</xr:TypeId>
+				<xr:ValueId>ae661157-6450-4099-bdf3-cdf6dc5cf558</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВозобновлениеТрудовыхДоговоровКонтрактов" category="Manager">
+				<xr:TypeId>b01967ea-48a6-41c9-86e3-a27f359adbd9</xr:TypeId>
+				<xr:ValueId>4b9ff7c8-faec-499b-96ef-7f05efa21b0f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВозобновлениеТрудовыхДоговоровКонтрактов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5be0a970-babd-4c80-9424-cd7196c60d58</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

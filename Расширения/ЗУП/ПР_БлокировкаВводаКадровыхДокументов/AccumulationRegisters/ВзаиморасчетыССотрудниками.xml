@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<AccumulationRegister uuid="5ea47f61-4c6b-4a07-8cfb-de3be6853278">
+		<InternalInfo>
+			<xr:GeneratedType name="AccumulationRegisterRecord.ВзаиморасчетыССотрудниками" category="Record">
+				<xr:TypeId>fe7aed65-ac5a-4603-8548-68c23c70c469</xr:TypeId>
+				<xr:ValueId>ffbabd4a-5b12-423a-87c0-2e4b99861629</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterManager.ВзаиморасчетыССотрудниками" category="Manager">
+				<xr:TypeId>c078d0dc-fc05-4e6e-a959-53f505fed8e2</xr:TypeId>
+				<xr:ValueId>39354116-ef68-4a61-a741-eb86316fb3a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterSelection.ВзаиморасчетыССотрудниками" category="Selection">
+				<xr:TypeId>420984ef-4d5c-421f-aa21-f03bd9f95d63</xr:TypeId>
+				<xr:ValueId>b2c15ea2-09e4-4054-a027-5cfd0424b20d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterList.ВзаиморасчетыССотрудниками" category="List">
+				<xr:TypeId>a606fe3a-c68c-4257-b4d8-cdb815c6354b</xr:TypeId>
+				<xr:ValueId>cb32fd0a-0ba9-46a0-9b21-39aff331812c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordSet.ВзаиморасчетыССотрудниками" category="RecordSet">
+				<xr:TypeId>12b8b8cb-ac59-491c-a54d-6a38e9086273</xr:TypeId>
+				<xr:ValueId>039d1f9e-4cb9-4e42-bf18-2d670ba8aa39</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordKey.ВзаиморасчетыССотрудниками" category="RecordKey">
+				<xr:TypeId>b6da0f9d-99c0-45a6-a52c-b086631814c0</xr:TypeId>
+				<xr:ValueId>d7743740-d212-4141-a14b-65d9e20adad4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВзаиморасчетыССотрудниками</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2d6ba3a1-be39-433b-ba3c-76e37cd89ccf</ExtendedConfigurationObject>
+			<RegisterType>Balance</RegisterType>
+		</Properties>
+		<ChildObjects>
+			<Dimension uuid="f24c1c6a-abd6-459a-8055-08035a240dd9">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Сотрудник</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>7a053f02-6b4e-46c4-9633-96276c0b4f0f</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Сотрудники</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</AccumulationRegister>
+</MetaDataObject>

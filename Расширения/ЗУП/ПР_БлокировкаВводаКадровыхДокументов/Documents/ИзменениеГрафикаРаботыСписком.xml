@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="2141bd3b-3d5a-454b-a51d-00421b3d4b69">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИзменениеГрафикаРаботыСписком" category="Object">
+				<xr:TypeId>cc4e10d4-719a-4dbd-938a-7faf493b3806</xr:TypeId>
+				<xr:ValueId>344601d1-1c29-4bad-9cd1-317ce34dd326</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИзменениеГрафикаРаботыСписком" category="Ref">
+				<xr:TypeId>f629a254-0587-434e-8b2f-26f96d29fbda</xr:TypeId>
+				<xr:ValueId>3f31361d-f6c8-43bf-92fa-b8816ab20a04</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИзменениеГрафикаРаботыСписком" category="Selection">
+				<xr:TypeId>2667d54a-7805-4156-b6c7-10d193a94170</xr:TypeId>
+				<xr:ValueId>b89649ff-0277-4446-9ddf-841e9541403b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИзменениеГрафикаРаботыСписком" category="List">
+				<xr:TypeId>294c6049-9663-4752-8461-bd40ba57a6d8</xr:TypeId>
+				<xr:ValueId>76e5a2d1-00d5-4c4d-bfb5-2d7630eedce7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИзменениеГрафикаРаботыСписком" category="Manager">
+				<xr:TypeId>b1060fcf-c7ae-4892-afd6-ca2fc4417979</xr:TypeId>
+				<xr:ValueId>8ba90dd6-ce4d-4ebf-884c-06353a84a5d7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИзменениеГрафикаРаботыСписком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fb00e272-939a-4237-b582-d8555068dad0</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

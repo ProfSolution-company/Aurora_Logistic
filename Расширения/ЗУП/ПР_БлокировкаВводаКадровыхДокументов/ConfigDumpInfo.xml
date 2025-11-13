@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ВзаиморасчетыССотрудниками" id="5ea47f61-4c6b-4a07-8cfb-de3be6853278" configVersion="01fa58749555008285369b8b88b13a53b401e117">
+			<Metadata name="AccumulationRegister.ВзаиморасчетыССотрудниками.Dimension.Сотрудник" id="f24c1c6a-abd6-459a-8055-08035a240dd9"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="32a1348c-0118-4669-b503-9b0ec871bb0d" configVersion="deeeed4b3156dea791ca9f89ddf1d9d7fa312256"/>
+		<Metadata name="CommonModule.РасшБВКД_БлокВводаКадровыхДокументов" id="1ddc7234-ae3f-4197-8e02-3dbe46d67556" configVersion="f283ee181bb23e775c5b0d42916861f1b98a321e"/>
+		<Metadata name="CommonModule.РасшБВКД_БлокВводаКадровыхДокументов.Module" id="1ddc7234-ae3f-4197-8e02-3dbe46d67556.0" configVersion="f89f8fe55fcf98fa3924198f434f94202e5fc769"/>
+		<Metadata name="Configuration.ПР_БлокировкаВводаКадровыхДокументов" id="1f39a77c-571b-4d36-831e-9b4d875881ef" configVersion="ff38266116328e083a0f13ee67bd58a49858e14f"/>
+		<Metadata name="Document.БольничныйЛист" id="e796f78f-3d6d-4e25-b165-7d5a2b9a2687" configVersion="4d4cd6bf094afaa3d4bb8edb652471b2646775f0"/>
+		<Metadata name="Document.ВозвратИзОтпускаПоУходуЗаРебенком" id="16161759-709a-4ca8-a36a-66ca87fd5d86" configVersion="4dd0bfdfd6476f5e77ef96d2526a235f8f4c2bb9"/>
+		<Metadata name="Document.ВозобновлениеТрудовыхДоговоровКонтрактов" id="b1cfc7b6-263c-4d16-a8b3-3b437d800744" configVersion="b729e15f49912abfac7176040cc4c95f0687f9c9"/>
+		<Metadata name="Document.ВосстановлениеВДолжности" id="4888da47-af73-4dc1-a998-96b6426e7bd8" configVersion="a62c7a66a25af463b51afc26c25edbed5e2fd2df"/>
+		<Metadata name="Document.ГрафикОтпусков" id="32758392-9e9e-4caf-8c95-c3f89e447fa6" configVersion="1f4ae1e60eff998a56c1a94e5d16a6af858254b7"/>
+		<Metadata name="Document.ИзменениеГрафикаРаботыСписком" id="2141bd3b-3d5a-454b-a51d-00421b3d4b69" configVersion="6745ad0d43062eca55421b51d45aec18c2ffa4fd"/>
+		<Metadata name="Document.ИзменениеУсловийОплатыОтпускаПоУходуЗаРебенком" id="9eed0e2d-2b6d-4e96-a76d-04cb8eae6093" configVersion="c9b1c99dd6372e1f8f9fb21990cc05ff2d2dae51"/>
+		<Metadata name="Document.КадровыйПеревод" id="d78ff2a1-6eb9-40ed-862c-1dae5d150c93" configVersion="1b6e7830e97fae232f10e9d908704939211cc40b"/>
+		<Metadata name="Document.КадровыйПереводСписком" id="848af939-3631-4601-99c1-0e2796d3f184" configVersion="0d21a16a1a6de66b8f4918e49c631e9b21bbb638"/>
+		<Metadata name="Document.Командировка" id="7fae7a9d-aaed-4851-9113-395dd3d5d0f1" configVersion="da7063cb4a33852c8f8384048f8a6c4f8014efb3"/>
+		<Metadata name="Document.КомандировкиСотрудников" id="b97195b9-b3a1-4a55-8a03-3672a92c3c78" configVersion="b70dde8122ecd1c6016d205ddc4f0d886e79ef33"/>
+		<Metadata name="Document.НачислениеЗарплаты" id="4e683bab-8770-4239-bb2e-17664dca56eb" configVersion="dc56ee94903f802d072fe9a179830f206a599a88">
+			<Metadata name="Document.НачислениеЗарплаты.Attribute.МесяцНачисления" id="03dbacea-4ee4-44c5-9c41-51ee13a1c853"/>
+		</Metadata>
+		<Metadata name="Document.ОплатаДнейУходаЗаДетьмиИнвалидами" id="6780f231-af3c-4005-ae09-9258ef3385ba" configVersion="1b6394fd72f14e5faf058f5524def6c964d5ebad"/>
+		<Metadata name="Document.ОплатаПоСреднемуЗаработку" id="d896b67c-faa0-4d52-a0d0-770f63c6470d" configVersion="1fb96c844bcd0870aaf53f5d7daad96337e3279d"/>
+		<Metadata name="Document.ОплатаПоСреднемуЗаработкуСписком" id="a4e42efb-b5b3-4ce5-a145-01eeee88b1aa" configVersion="a606b6e1ceb13b69c4de2f8f766a1815bb25809a"/>
+		<Metadata name="Document.Отгул" id="8eb27752-525f-4002-88bf-40eb59b1615f" configVersion="3e482273471d44d643fffe13f3936fb7c9ca16f8"/>
+		<Metadata name="Document.ОтгулСписком" id="10a2a66d-022a-42c6-961f-25f49b875a01" configVersion="483f9a20af4571f1cc08dd539ca5a3c026fae500"/>
+		<Metadata name="Document.ОтменаСовмещения" id="a4908250-0c92-4bae-a295-281868341f18" configVersion="93077beadf804c8f7febefbc07a8a4b98dc90819"/>
+		<Metadata name="Document.Отпуск" id="4e7f504c-7350-49ae-8c53-7d2953ed8831" configVersion="7ae576c05bfd1dafdf5d8d539989045ec6a37f32"/>
+		<Metadata name="Document.Отпуск.ObjectModule" id="4e7f504c-7350-49ae-8c53-7d2953ed8831.0" configVersion="acab3f27ff0e7c7ca13211bd7f12ff9e3f4f4fb1"/>
+		<Metadata name="Document.ОтпускБезСохраненияОплаты" id="d2123863-14ab-4221-9a62-1a360146b772" configVersion="4b6a250b7adadd3f707ec28fa2fafe46d9bed774"/>
+		<Metadata name="Document.ОтпускБезСохраненияОплатыСписком" id="69bf8a3a-aef2-48a1-9fd1-9f86962c94e6" configVersion="fae11f814c80f99606fcd9f5aa6a7d2ce7b58783"/>
+		<Metadata name="Document.ОтпускПоУходуЗаРебенком" id="f31f1924-9e39-4837-a565-316518c11e22" configVersion="6bc0f1fee647d74f38ac955e5c4ca67c468b5b70"/>
+		<Metadata name="Document.ОтпускаСотрудников" id="aee5a6c8-819f-4322-a3cc-5b048f7a867e" configVersion="2ce2ba5eb744e2b3ad5818c62858e7758c5a5a90"/>
+		<Metadata name="Document.ПеремещениеВДругоеПодразделение" id="68d3adf4-8958-41e3-ad9a-a5f631044971" configVersion="7e2fc1fd2cafb915c7848873899138d56cc3756a"/>
+		<Metadata name="Document.ПеремещениеМеждуТерриториями" id="ba000a0e-78bc-451f-8d31-b7e5608faa8d" configVersion="bdd423951377eeb95efb20e6a2f4007c7b49468f"/>
+		<Metadata name="Document.ПереносОтпуска" id="48d0233e-2338-46df-920e-cb0294a92d16" configVersion="e5280ed5ff1581e74e537334d76c63940eb625b4"/>
+		<Metadata name="Document.ПриемНаРаботу" id="732378e2-c157-4f84-af9b-1acbc8742cf7" configVersion="4dfc9d957afe0c3e5d41f8d49ef6b6145a0c1150"/>
+		<Metadata name="Document.ПриемНаРаботуСписком" id="4d954696-f711-4f6f-a91a-7483048f4087" configVersion="aca95174e8cae725be3c1c9dfa1b8d2999b027a7"/>
+		<Metadata name="Document.ПриостановлениеТрудовыхДоговоровКонтрактов" id="b26c95e3-0568-4ceb-8195-50d2e9d58be0" configVersion="e79103cebc95a2e77ade04ed74e140042e0875a3"/>
+		<Metadata name="Document.ПрогулНеявка" id="9f51a90a-298b-4c47-82ff-a8a03bdea626" configVersion="a826f97eafa98a322af650e7b0a3b2b526afcf09"/>
+		<Metadata name="Document.ПрогулНеявкаСписком" id="60a7ce76-c549-485e-8297-e0312afdbd62" configVersion="cdb4162828cfbf9d55f73ad2a2bad6a5fe892dda"/>
+		<Metadata name="Document.ПродлениеКонтрактаДоговора" id="ed5f0106-e2d5-47fa-9e93-adcb33811c00" configVersion="c598dc722bd70923aafa6a5b1139b540d8827e9a"/>
+		<Metadata name="Document.РаботаВВыходныеИПраздничныеДни" id="d12282c9-7692-4c7f-8839-1843c77f9c9d" configVersion="c322d10a541b415b13a15e3582ccbbdf348ed588"/>
+		<Metadata name="Document.РаботаСверхурочно" id="08bf18ef-215c-44f8-b681-0dabf506f7e9" configVersion="8fc52b2e936d7a2c8934a79368d83998d40eb290"/>
+		<Metadata name="Document.РегистрацияПереработок" id="e9f2c1db-f0a3-417d-ae68-8c532829bc2b" configVersion="db41c93ca9b5173991496eef51e99060a5905d7c"/>
+		<Metadata name="Document.Совмещение" id="8c6d1039-04a8-4752-8084-e31522ece4b8" configVersion="715df7134688620f389dd561873f4b4081ada576"/>
+		<Metadata name="Document.ТабельУчетаРабочегоВремени" id="f22f5428-7b9d-40de-ba40-e8186a7b8e64" configVersion="2849f580b83dd45d4bb7f4a6581caba8fead921b"/>
+		<Metadata name="Document.Увольнение" id="8e7011fb-efaa-453b-82e0-47cf22b89d70" configVersion="67b565e260a2c10174ccc04f818434c8483256ad"/>
+		<Metadata name="Document.УвольнениеСписком" id="2f53d657-f970-4a40-a609-c3090569f403" configVersion="5898495a649a8bd813332b15e3ffdc073776abd4"/>
+		<Metadata name="EventSubscription.РасшБВКД_ОбработкаПроверкиЗаполненияКД" id="c4c46c65-8308-4aad-bcb7-e9d9467dea51" configVersion="efdb1237db000436daa46e72363f1c933dec7b33"/>
+		<Metadata name="Language.Русский" id="0e478265-00dd-4d60-b12f-c5bce1a7b6ee" configVersion="02983b61ba36cecdca264268bd04e90ce1c0e608"/>
+		<Metadata name="Role.РасшБВКД_ОсновнаяРоль" id="a3c762f4-365e-4d77-bf9f-fe98735b4fc8" configVersion="458ecb86729fa796e826b45faaaa33214e115d3c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
